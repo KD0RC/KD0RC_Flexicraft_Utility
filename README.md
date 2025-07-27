@@ -10,3 +10,5 @@ managing the amp and tuner very easy, especially when operating remotely.
  
 This utility makes use of Flexlib, so you won't see text-based API calls
 here.
+
+<img width="810" height="532" alt="image" src="https://github.com/user-attachments/assets/197699e8-828c-4803-a004-60fb01f20453" />
