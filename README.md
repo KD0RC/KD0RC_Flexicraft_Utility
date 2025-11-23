@@ -1,5 +1,5 @@
 # KD0RC_Flexicraft_Utility
-Flex 6000/8000 radio utility to provide control over Flex output power when using an Elecraft amplifier.
+Flex 6000/8000/Aurora radio utility to provide control over Flex output power when using an Elecraft amplifier.
 
 The primary function of this utility is to change the output of the Flex
 so that it does not overdrive an Elecraft KPA 500.  It provides 10 settings
